@@ -1,0 +1,8 @@
+{
+  "name": "lambda-country-info",
+  "version": "1.0.0",
+  "description": "Lambda for Amazon Lex Country Info bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT"
+}
